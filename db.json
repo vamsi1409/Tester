@@ -4,11 +4,11 @@
     "userId":"143",
     "username":"vamsikrishna007",
     "notifications": [
-      { "id": "1", "username": "Star Wars", "releaseYear": "1977" },
-      { "id": "2", "username": "Back to the Future", "releaseYear": "1985" },
-      { "id": "3", "username": "The Matrix", "releaseYear": "1999" },
-      { "id": "4", "username": "Inception", "releaseYear": "2010" },
-      { "id": "5", "username": "Interstellar", "releaseYear": "2014" }
+      { "id": 1, "username": "Star Wars", "releaseYear": "1977" },
+      { "id": 2, "username": "Back to the Future", "releaseYear": "1985" },
+      { "id": 3, "username": "The Matrix", "releaseYear": "1999" },
+      { "id": 4, "username": "Inception", "releaseYear": "2010" },
+      { "id": 5, "username": "Interstellar", "releaseYear": "2014" }
     ]
 }
 
