@@ -1,10 +1,10 @@
 {
     "notifications": [
-      { "id": 1, "username": "Star Wars", "releaseYear": "1977" },
-      { "id": 2, "username": "Back to the Future", "releaseYear": "1985" },
-      { "id": 3, "username": "The Matrix", "releaseYear": "1999" },
-      { "id": 4, "username": "Inception", "releaseYear": "2010" },
-      { "id": 5, "username": "Interstellar", "releaseYear": "2014" }
+      { "id": 1, "username": "Star Wars", "type": "like","postId":"p123","time":"1" },
+      { "id": 2, "username": "Back to the Future", "type": "ack","postId":"p124","time":"2" },
+      { "id": 3, "username": "The Matrix", "type": "like","postId":"p125","time":"3" },
+      { "id": 4, "username": "Inception", "type": "like","postId":"p126","time":"4" },
+      { "id": 5, "username": "Interstellar", "type": "like","postId":"p127","time":"5" }
     ]
 }
 
