@@ -3,7 +3,7 @@
     "description": "Notifications appear here",
     "userId":"",
     "username":"vamsikrishna007",
-    "notification": [
+    "notifications": [
       { "id": "1", "username": "Star Wars", "releaseYear": "1977" },
       { "id": "2", "username": "Back to the Future", "releaseYear": "1985" },
       { "id": "3", "username": "The Matrix", "releaseYear": "1999" },
