@@ -4,7 +4,7 @@
       { "id": 2, "username": "Back to the Future", "messageType": "ack","postId":"p124","time":"2" },
       { "id": 3, "username": "The Matrix", "messageType": "like","postId":"p125","time":"3" },
       { "id": 4, "username": "Inception", "messageType": "like","postId":"p126","time":"4" },
-      { "id": 5, "username": "Interstellar", "messageType": "like","postId":"p127","time":"5" }
+      { "id": 5, "username": "Interstellar", "messageType": "follow","postId":"p127","time":"5" }
     ]
 }
 
