@@ -61,16 +61,16 @@
         { "id": 10, "username": "NoName", "rank": "10","country":"mexico","points":"2000" }
     ],
     "localLeaderBoard":[
-        { "id": 1, "username": "Interstellar", "rank": "1","country":"usa","points":"22000" },
-        { "id": 2, "username": "Matrix", "rank": "2","country":"mexico","points":"21200" },
+        { "id": 1, "username": "Interstellar", "rank": "1","country":"india","points":"22000" },
+        { "id": 2, "username": "Matrix", "rank": "2","country":"india","points":"21200" },
         { "id": 3, "username": "Inception", "rank": "3","country":"india","points":"19300" },
-        { "id": 4, "username": "Zion", "rank": "4","country":"russia","points":"18000" },
-        { "id": 5, "username": "Elephant", "rank": "5","country":"australia","points":"17600" },
-        { "id": 6, "username": "Apple", "rank": "6","country":"singapore","points":"16000" },
+        { "id": 4, "username": "Zion", "rank": "4","country":"india","points":"18000" },
+        { "id": 5, "username": "Elephant", "rank": "5","country":"india","points":"17600" },
+        { "id": 6, "username": "Apple", "rank": "6","country":"india","points":"16000" },
         { "id": 7, "username": "RaviByna", "rank": "7","country":"india","points":"11000" },
         { "id": 8, "username": "VamsiCalpakkam", "rank": "8","country":"india","points":"8000" },
-        { "id": 9, "username": "TheCookster", "rank": "9","country":"usa","points":"6000" },
-        { "id": 10, "username": "NoName", "rank": "10","country":"mexico","points":"2000" }
+        { "id": 9, "username": "TheCookster", "rank": "9","country":"india","points":"6000" },
+        { "id": 10, "username": "NoName", "rank": "10","country":"india","points":"2000" }
     ],
     "friendsLeaderBoard":[
         { "id": 1, "username": "Interstellar", "rank": "1","country":"usa","points":"22000" },
