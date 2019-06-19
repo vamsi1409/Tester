@@ -1,6 +1,7 @@
 {
     "user":[
-        {"id":1,"success":true,"message":"login Successful"}
+        {"id":1,"success":true,"message":"login Successful"},
+        {"id":2,"success":false,"message":"Server Down"}
     ],
     "savedRecipe":[
         { "id": 1, "postId": "p123", "image":"https://www.gstatic.com/webp/gallery/1.jpg"},
